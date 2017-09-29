@@ -1,0 +1,1 @@
+Add-Printer -Name "Microsoft XPS Document Writer" -DriverName "Microsoft XPS Document Writer v4" -PortName "portprompt:"
